@@ -1,6 +1,7 @@
 # Hello there; welcome 👋🏾
 
-- Here's a quick summary about me:
+# 💫 About Me :
+
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.
 - 🌱 I’m currently working with JavaScript, Reactjs, and Node.js.

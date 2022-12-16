@@ -3,7 +3,7 @@
 # 💫 About Me :
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.
+- 💡 Fun fact: I'm a Software Engineering.
 - 🌱 I’m currently working with JavaScript, Reactjs, and Node.js.
-- 😊 I’m looking to help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 😊 I’m looking to help with open source projects, hackathons, full-time roles, and mid-level opportunities.
+- 💼 Job interests: Software Engineer, Frontend Engineer, Backend or UI Engineer (Mid level or Junior level).

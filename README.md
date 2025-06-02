@@ -7,7 +7,6 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable, eff
 - 🔧 Experienced in **JavaScript/TypeScript**, **React**, **Next.js**, **Node.js**, **NestJS**, and **React Native**.
 - 🏗️ Architected and led backend infrastructure for fintech and edtech platforms using **microservices**, **PostgreSQL**, **Redis**, and **AWS**.
 - 📱 Built and shipped mobile applications on both Android and iOS using **Expo** and **React Native**.
-- 🧠 Implemented AI-driven fraud detection systems using **Python** and **TensorFlow**.
 - 🧰 Skilled in building modern, accessible UIs with **ShadCN UI**, **Tailwind CSS**, and **Material UI**.
 - 🚀 Passionate about DevOps practices, CI/CD, and system optimization for high availability.
 

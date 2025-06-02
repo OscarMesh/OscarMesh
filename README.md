@@ -41,10 +41,3 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable, eff
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=OscarMesh&theme=darkhub)
-
----
-
-> ⚡ Fun fact: I transitioned from Metallurgical Engineering to Software Engineering—proof that passion fuels purpose.
